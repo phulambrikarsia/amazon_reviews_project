@@ -27,3 +27,6 @@ data/
 .idea/
 *.sublime-project
 *.sublime-workspace
+
+# Exclude .ipynb_checkpoints
+.ipynb_checkpoints/
