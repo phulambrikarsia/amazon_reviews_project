@@ -1,0 +1,29 @@
+# Virtual environment
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+__pycache__/
+
+# Compiled Python files
+*.pyc
+
+# Logs and temporary files
+*.log
+*.swp
+
+# Data and large files (customize as needed)
+data/
+*.csv
+*.json
+*.gz
+*.h5
+*.feather
+*.pkl
+
+# Other user-specific settings (e.g., settings files for editors)
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
