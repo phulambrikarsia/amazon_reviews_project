@@ -24,6 +24,27 @@
     ```bash
     pip install -r requirements.txt
     ```
+6. Set up a Jupyter kernel by running the following command:
+    ```bash
+    python -m ipykernel install --user --name=amazon_reviews_project
+    ```
+7. Start the Jupyter notebook by running the following command:
+    ```bash
+    jupyter notebook
+    ```
+8. In the Jupyter notebook interface, navigate to the `notebooks` directory and open the `amazon_reviews.ipynb` file.
+9. Follow the instructions in the notebook to run the project.
+    ```bash
+    python3 -m venv env
+    ```
+4. Activate the virtual environment by running the following command:
+    ```bash
+    source env/bin/activate
+    ```
+5. Install the required packages by running the following command:
+    ```bash
+    pip install -r requirements.txt
+    ```
 6. Start the Jupyter notebook by running the following command:
     ```bash
     jupyter notebook
